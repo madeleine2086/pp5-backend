@@ -23,8 +23,10 @@
 
 This repository is the backend API utilising the Django REST Framework(DRF).
 
-The React frontend repository can be found //link//
+The React frontend project repository can be found [// here //](https://pp5-front-6b1f4631509a.herokuapp.com/)
+
 <br />
+
 
 ## Database Schema
 
@@ -34,7 +36,11 @@ The React frontend repository can be found //link//
 
 
 
+
+
 <h2 id="agile-methodology">Agile Methodology</h2>
+The Agile Methodology was used to plan this project, implemented through Github and the Project Board.
+Project Board can be seen here: https://pp5-front-6b1f4631509a.herokuapp.com/
 
 
 
