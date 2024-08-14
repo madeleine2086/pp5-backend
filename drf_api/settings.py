@@ -68,10 +68,10 @@ ALLOWED_HOSTS = [
     'localhost',
     '8000-madeleine208-pp5backend-cjf8knysqr8.ws.codeinstitute-ide.net',]
 
-CSRF_TRUSTED_ORIGINS = [
-"https://*.codeinstitute-ide.net",
-"https://*.herokuapp.com",
-]
+#CSRF_TRUSTED_ORIGINS = [
+#"https://*.codeinstitute-ide.net",
+#"https://*.herokuapp.com",
+#]
 
 # Application definition
 
