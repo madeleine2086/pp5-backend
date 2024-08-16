@@ -68,10 +68,6 @@ ALLOWED_HOSTS = [
     'localhost',
     '8000-madeleine208-pp5backend-cjf8knysqr8.ws.codeinstitute-ide.net',]
 
-#CSRF_TRUSTED_ORIGINS = [
-#"https://*.codeinstitute-ide.net",
-#"https://*.herokuapp.com",
-#]
 
 # Application definition
 
@@ -128,7 +124,6 @@ if 'CLIENT_ORIGIN_DEV' in os.environ:
     ]
 
 CORS_ALLOW_CREDENTIALS = True
-#CORS_ORIGIN_ALLOW_ALL=True
 
 ROOT_URLCONF = 'drf_api.urls'
 
